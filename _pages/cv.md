@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here] (https://Iqbal0007.github.io/files/CV.pdf)
+[Download CV here] <a href="https://Iqbal0007.github.io/files/CV.pdf">[CV]</a>
