@@ -85,7 +85,7 @@ author:
   bio              : "PhD student and Computer Vision researcher at University of Wyoming"
   location         : "Wyoming, United States"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=FTsvMfkAAAAJ"
   email            : "mhossai9@uwyo.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "github.com/Iqbal0007"
+  github           : "Iqbal0007"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "linkedin.com/in/ih007"
+  linkedin         : "ih007"
   orcid            : 
   pinterest        :
   soundcloud       :
