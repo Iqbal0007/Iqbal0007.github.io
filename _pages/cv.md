@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Resume"
-permalink: /resume/
+title: "CV"
+permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /CV
 ---
 
 {% include base_path %}
 
-[Download resume here] <a href="https://Iqbal0007.github.io/files/resume.pdf">[resume]</a>
+[Download CV here] <a href="https://Iqbal0007.github.io/files/resume.pdf">[CV]</a>
